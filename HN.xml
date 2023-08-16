@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="HN.dtd" type="application/xml-dtd"?>
+<?xml-model href="HN.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<?xml-stylesheet href="hn.xsl" type="text/xsl"?>
+
+<HN.Stationaries>
+<stationary>
+<product.id>1</product.id>
+<product.name>Pencil</product.name>
+<quantity>12000 units</quantity>
+<price.per.unit>10</price.per.unit>
+<price.per.dozen>110</price.per.dozen>
+<In.stock>Yes</In.stock>
+</stationary>
+
+<stationary>
+<product.id>2</product.id>
+<product.name>Pen</product.name>
+<quantity>6000 units</quantity>
+<price.per.unit>60</price.per.unit>
+<price.per.dozen>700</price.per.dozen>
+<In.stock>Yes</In.stock>
+</stationary>
+
+<stationary>
+<product.id>3</product.id>
+<product.name>Eraser</product.name>
+<quantity>15000 units</quantity>
+<price.per.unit>7</price.per.unit>
+<price.per.dozen>80</price.per.dozen>
+<In.stock>Yes</In.stock>
+</stationary>
+
+<stationary>
+<product.id>4</product.id>
+<product.name>Sharpner</product.name>
+<quantity>0 units</quantity>
+<price.per.unit>10</price.per.unit>
+<price.per.dozen>110</price.per.dozen>
+<In.stock>No</In.stock>
+</stationary>
+
+<stationary>
+<product.id>1</product.id>
+<product.name>BoardMarker</product.name>
+<quantity>500 units</quantity>
+<price.per.unit>80</price.per.unit>
+<price.per.dozen>900</price.per.dozen>
+<In.stock>Yes</In.stock>
+</stationary>
+
+</HN.Stationaries>
